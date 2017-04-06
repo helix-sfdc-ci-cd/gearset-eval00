@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>B2C_Sharing</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>B2C Sharing</label>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Helix B2C Lead Layout</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

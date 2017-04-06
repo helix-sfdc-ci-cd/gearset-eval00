@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>chris.williams@helix.com</contactEmail>
+    <label>Helix Marketplace</label>
+    <oauthConfig>
+        <callbackUrl>https://localhost:8443/RestTest/oauth/_callback</callbackUrl>
+        <consumerKey>3MVG9er.T8KbeePSA.IY7Y_JmqthgfxhxSkrSSUQwkzlYoMgpunwnx8Aw6neXEmUx.Oo46UErb3rP6KKvVgh8</consumerKey>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObject xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <fullName>Email_Template_Name__c</fullName>
+        <externalId>false</externalId>
+        <label>Email Template Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><customSettingsType>List</customSettingsType><enableFeeds>false</enableFeeds><label>Marketing Email Template Name</label><visibility>Public</visibility></CustomObject>
